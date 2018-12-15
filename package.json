@@ -1,0 +1,22 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "curso js-tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiochiquezi/curso-js-tdd.git"
+  },
+  "author": "Fábio Chiquezi (http://www.fabiochiquezi.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabiochiquezi/curso-js-tdd/issues"
+  },
+  "homepage": "https://github.com/fabiochiquezi/curso-js-tdd#readme",
+  "dependencies": {
+    "gitignore": "^0.6.0"
+  }
+}
